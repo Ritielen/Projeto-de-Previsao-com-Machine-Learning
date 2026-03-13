@@ -1,4 +1,5 @@
 📊 Previsão de Score de Crédito com Machine Learning
+
 Projeto desenvolvido durante a Jornada Python da Hashtag Treinamentos. O objetivo foi criar modelos de classificação para prever o score de crédito de clientes e identificar os fatores que mais
 influenciam essa pontuação.
 
